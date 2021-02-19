@@ -6,7 +6,6 @@ import functional.pages.ListAlbumsPage
 import geb.spock.GebSpec
 import grails.testing.mixin.integration.Integration
 import org.junit.Assert
-import org.junit.experimental.theories.Theories
 
 @Integration
 class Musify4FunctionalSpec extends GebSpec{

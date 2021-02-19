@@ -1,6 +1,5 @@
 package functional.pages
 
-import geb.Module
 import geb.Page
 
 class EditAlbumPage extends Page{

@@ -9,7 +9,13 @@ class ListAlbumsPage extends Page {
     static at = { title.contains("Album List") }
 
     static content = {
+        
+        
+        
+        
         tableBody(wait: true) { $("#myTable tbody").children().moduleList(AlbumListRow) }
+        
+        
         form(wait: true) { $("#myForm") }
         titleField(wait: true) { $("#titleField") }
         artistField(wait: true) { $("#artistField") }
