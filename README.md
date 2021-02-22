@@ -1,2 +1,6 @@
 # Musify4
-Grails 4 version of my Musify project, with added Functional Tests.
+Introductory educational Project for Knowledge
+
+Grails Version 2.4.4 of this project: https://github.com/alexioannou/Musify
+
+Documentation, Notes & other: https://github.com/alexioannou/KnowledgeNotes
